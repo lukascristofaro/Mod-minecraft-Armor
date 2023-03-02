@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_chestplate"
+    },
+    "1": {
+      "item": "minecraft:diamond_block"
+    },
+    "2": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "item": "secretmod:luluarmor_chestplate",
+    "count": 1
+  }
+}
